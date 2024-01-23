@@ -1,0 +1,37 @@
+;local
+127.0.0.1
+::1
+localhost
+<local>  
+fc00::/7  
+fe80::/10
+;local network
+192.168.1.0/24
+172.16.0.0/16
+172.24.0.0/16
+172.29.0.0/16
+10.0.0.0/8
+;inner network
+*.didistatic.com
+*.xiaojukeji.com
+*.intra.xiaojukeji.com
+*.didiglobal.com
+*.intra.didiglobal.com
+*.didichuxing.com
+*.diditaxi.com.cn
+;home network
+*.myqcloud.com
+*.baidu.com
+*.csdn.net
+*.lovemengya.cn
+*.gitee.com
+*.inspc.org.cn
+*.contest.inspc.org.cn
+*.jianshu.com
+*.juejin.cn
+*.sogou.com
+*.zhihu.com
+*.zhimg.com
+118.89.204.198
+cocopilot.org
+ *.cfca.com.cn
