@@ -43,6 +43,11 @@ gitee.com
 *.alipay.com
 *.doubleclick.net
 *.gstatic.cn
+;tencent
+*.qq.com
+*.qqmail.com
+*.cdn-go.cn
+*.gtimg.com
 ;other
 *.amazonaws.com.cn
 *.coderead.cn
