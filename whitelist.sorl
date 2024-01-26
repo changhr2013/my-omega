@@ -46,9 +46,13 @@ gitee.com
 ;tencent
 *.qq.com
 *.qqmail.com
+cdn-go.cn
 *.cdn-go.cn
 *.gtimg.com
 ;other
+*.myssl.com
+the-x.cn
+cdn.bootcss.com
 *.amazonaws.com.cn
 *.coderead.cn
 *.bootcdn.net
